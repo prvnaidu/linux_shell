@@ -169,13 +169,3 @@ Through this project I gained hands-on experience with:
 
 ---
 
-## Future Improvements
-
-* Command history
-* Tab completion
-* Job control (`jobs`, `fg`, `bg`)
-* Environment variable support
-* Advanced parsing with quotes and escapes
-* Custom shell prompt
-
----
